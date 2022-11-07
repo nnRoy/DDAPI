@@ -1,5 +1,5 @@
 # DDAPI
-This is the code repository for the paper [DDAPI: A Deep Diverse API Recommendation Framework with Long-tail Items]
+This is the code repository for the paper [DDAPI: A Deep Diverse API Sequence Recommendation Framework with Long-tail Items]
 
 ## Dependency
 * python==3.8.0
