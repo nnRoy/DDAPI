@@ -16,6 +16,9 @@ numpy==1.22.2
 * data_loader.py
 * Metrics.py: evaluation metrics
 * main.py: you can run this file to train the model
+## Dataset
+Since the dataset is quite large, I have to upload it using GoogleDrive. Please download the full package using the following link:
+[https://drive.google.com/drive/folders/16c2ZbXr2N2Q_v8fjvLBdUWh2pVQQZhng?usp=sharing]
 
 ## Competing Models
 * DeepAPI
