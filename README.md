@@ -12,6 +12,7 @@ numpy==1.22.2
 * Decoder.py: API Sequence Decoder
 * Attention.py: attention mechanism
 * Evaluate.py
+* LossLongtail.py: loss function
 * data_loader.py
 * Metrics.py: evaluation metrics
 * main.py: you can run this file to train the model
